@@ -2,20 +2,15 @@
 
 **Web Application Developer** | 💻 Passionate about building impactful web solutions  
 📍 Based in Giza, Egypt  
-📫 Reach me at: [zizoabdelaziz125@gmail.com](mailto:zizoabdelaziz125@gmail.com)
 
 ---
 
 ## 🚀 Projects
 
-- **[PayForMe](https://github.com/zizoabdelaziz125/PayForMe)**  
-  *An online payment web application.*
-
-- **[IRT_Project_ASPNetMVC](https://github.com/zizoabdelaziz125/IRT_Project_ASPNetMVC)**  
-  *Information Retrieval Techniques implemented using ASP.NET MVC.*
-
-- **[InformationRetrievalTechnics](https://github.com/zizoabdelaziz125/InformationRetrievalTechnics)**  
-  *Exploring various information retrieval techniques.*
+- **[PayForMe](https://github.com/zizoabdelaziz125/PayForMe)** – Online payment web application  
+- **[IRT_Project_ASPNetMVC](https://github.com/zizoabdelaziz125/IRT_Project_ASPNetMVC)** – ASP.NET MVC for information retrieval  
+- **[InformationRetrievalTechnics](https://github.com/zizoabdelaziz125/InformationRetrievalTechnics)** – Exploratory IR techniques  
+- **[SurveyBasket](https://github.com/zizoabdelaziz125/SurveyBasket)** – Survey management platform
 
 ---
 
@@ -39,5 +34,13 @@
 
 ## 🌐 Let's Connect
 
-Feel free to connect or reach out for collaboration opportunities!
+- 📧 Email: [zizoabdelaziz125@gmail.com](mailto:zizoabdelaziz125@gmail.com)
+- 💬 WhatsApp: [Click to Chat](https://wa.me/201096982610)
+- 💼 LinkedIn: [Ahmed Abdelaziz Shaban](https://www.linkedin.com/in/ahmed-abdelaziz-shaban/)
+- 🐦 Twitter/X: [@zizoabdelaziz125](https://twitter.com/zizoabdelaziz125)
+- 🌍 Portfolio: *Coming Soon...*
 
+---
+
+Thank you for visiting my profile! 🙏  
+Feel free to explore my projects, contribute, or just say hi 👋
